@@ -1,2 +1,6 @@
-# lesson\_1 \*\*\* Основы HTML
+---
+description: Intro. Основы HTML
+---
+
+# lesson\_1 \*\*\*
 
