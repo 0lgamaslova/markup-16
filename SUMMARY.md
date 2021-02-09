@@ -21,7 +21,7 @@
     * [1.9. Теги html. Структура, группы тегов](html/html.-struktura-html-dokumenta/tegi-html.md)
     * [1.10. Спецсимволы в html. Примеры использования](html/html.-struktura-html-dokumenta/1.10.-specsimvoly-v-html.-primery-ispolzovaniya.md)
     * [1.11. HTML-комментарии](html/html.-struktura-html-dokumenta/1.11.-html-kommentarii.md)
-  * [HomeWork](html/homework.md)
+  * [HomeWork 1](html/homework.md)
 * [lesson\_2 \*\*\* Теги](untitled/README.md)
   * [2.1. Структура проекта. Создаем первый html-документ.](untitled/2.1.-struktura-proekta.-sozdaem-pervyi-html-dokument..md)
   * [2.2. Теги для HTML текста \(текстовые\)](untitled/2.2.-tegi-dlya-html-teksta-tekstovye.md)
@@ -31,10 +31,22 @@
   * [2.6. Тег &lt;table&gt;.Таблица как часть контента.](untitled/2.6.-teg-less-than-table-greater-than.tablica-kak-chast-kontenta..md)
   * [2.8. Медиа-файлы.](untitled/2.8.-media-faily..md)
   * [2.8. Layout веб-страницы. Разбираем макет будущего сайта.](untitled/2.8.-layout-veb-stranicy.-razbiraem-maket-budushego-saita..md)
-  * [HomeWork](untitled/homework.md)
+  * [HomeWork 2](untitled/homework.md)
 
 ## CSS
 
+* [lesson\_3 \*\*\*](css/lesson_3/README.md)
+  * [3.1. Что такое CSS](css/lesson_3/3.1.-chto-takoe-css.md)
+  * [3.2. Способы подключения стилей](css/lesson_3/3.2.-sposoby-podklyucheniya-stilei.md)
+  * [3.3. Селекторы CSS](css/lesson_3/3.3.-selektory-css.md)
+  * [3.4. Каскад \(”вес” селекторов\)](css/lesson_3/3.4.-kaskad-ves-selektorov.md)
+  * [3.5. Комбинирование и группировка селекторов](css/lesson_3/3.5.-kombinirovanie-i-gruppirovka-selektorov.md)
+  * [3.6. Наследование](css/lesson_3/3.6.-nasledovanie.md)
+  * [3.7. Комментарии в CSS](css/lesson_3/3.7.-kommentarii-v-css.md)
+  * [3.8. Единицы измерения в CSS](css/lesson_3/3.8.-edinicy-izmereniya-v-css.md)
+  * [HomeWork 3](css/lesson_3/homework-3.md)
+* [lesson\_4 \*\*\*](css/lesson_4/README.md)
+  * [4.1. Псевдоклассы](css/lesson_4/4.1.-psevdoklassy.md)
 * [CSS - part1](css/untitled/README.md)
   * [HomeWork](css/untitled/homework.md)
 
