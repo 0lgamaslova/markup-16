@@ -2,11 +2,14 @@
 
 * [Initial page](README.md)
 
+## ABOUT <a id="about-it-1"></a>
+
+* [ABOUT IT](about-it-1/about-it.md)
+
 ## HTML <a id="html-1"></a>
 
 ---
 
-* [ABOUT IT](about-it.md)
 * [lesson\_1 \*\*\*](html/README.md)
   * [Вводная лекция](html/vvodnaya-lekciya/README.md)
     * [1.1. Жизненный цикл проекта](html/vvodnaya-lekciya/zhiznennyi-cikl-proekta.md)
@@ -56,9 +59,6 @@
   * [4.8. Прозрачность - opacity](css/lesson_4/4.8.-prozrachnost-opacity.md)
   * [4.9. Тень](css/lesson_4/4.9.-ten.md)
   * [HomeWork 4](css/lesson_4/homework-4.md)
-
----
-
-* [CSS. Позиционирование и прочие прелести](css.-pozicionirovanie-i-prochie-prelesti/README.md)
-  * [Home Work](css.-pozicionirovanie-i-prochie-prelesti/home-work.md)
+* [lesson\_6 \*\*\*](css/css.-pozicionirovanie-i-prochie-prelesti/README.md)
+  * [Home Work](css/css.-pozicionirovanie-i-prochie-prelesti/home-work.md)
 
