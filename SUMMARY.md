@@ -47,6 +47,10 @@
   * [HomeWork 3](css/lesson_3/homework-3.md)
 * [lesson\_4 \*\*\*](css/lesson_4/README.md)
   * [4.1. Псевдоклассы](css/lesson_4/4.1.-psevdoklassy.md)
+  * [4.2. Структурные псевдоклассы](css/lesson_4/4.2.-strukturnye-psevdoklassy.md)
+  * [4.3. Структурные псевдоэлементы](css/lesson_4/4.3.-strukturnye-psevdoelementy.md)
+  * [4.4. Текст. Стили для форматирования текста.](css/lesson_4/4.4.-tekst.-stili-dlya-formatirovaniya-teksta..md)
+  * [Untitled](css/lesson_4/untitled.md)
 * [CSS - part1](css/untitled/README.md)
   * [HomeWork](css/untitled/homework.md)
 
