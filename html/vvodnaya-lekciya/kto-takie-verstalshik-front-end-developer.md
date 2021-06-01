@@ -1,5 +1,7 @@
 # 1.2. Кто такие Верстальщик/Front-end девелопер
 
+
+
 ![](https://github.com/olgamaslovaolga/Alevel-Markup/raw/master/images/img-1.02.png)
 
 
